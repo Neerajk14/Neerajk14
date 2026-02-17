@@ -1,4 +1,8 @@
  #  Hi  👨‍💻 Neeraj Patel
+ <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Cherag-16&label=Profile%20views&color=0e75b6&style=flat" alt="cheragsaxena" />
+</p>
+
 **💻 Aspiring Software Engineer || Web Developer || Pre-final Year Student**
 
 Email Me 👉 ✉️ **neerajk2310@gmail.com** For Collaboration/Project or Anything Else. 😊😊

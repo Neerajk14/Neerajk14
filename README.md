@@ -1,6 +1,6 @@
  #  Hi  👨‍💻 Neeraj Patel
  <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Cherag-16&label=Profile%20views&color=0e75b6&style=flat" alt="cheragsaxena" />
+  <img src="https://komarev.com/ghpvc/?username=Neerajk14&label=Profile%20views&color=0e75b6&style=flat" alt="Neerajk14" />
 </p>
 
 **💻 Aspiring Software Engineer || Web Developer || Pre-final Year Student**

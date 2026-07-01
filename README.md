@@ -15,7 +15,6 @@ Email Me 👉 ✉️ **neerajk2310@gmail.com** For Collaboration/Project or Anyt
 Full Stack Development & Problem Solving
 
  
-- 
  ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@neerajpatel14) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:neerajpatel2310@gmail.com) 
 
